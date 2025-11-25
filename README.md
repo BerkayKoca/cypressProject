@@ -1,16 +1,17 @@
-# Cypress Trendyol E2E Test Projesi
+#  Cypress Trendyol End-to-End Test Project
 
-Bu proje, **Cypress 11.2.0** sürümü kullanılarak hazırlanmış, Trendyol e-ticaret sitesi için **uçtan uca (E2E) test senaryolarını** içermektedir.
+This project was developed using **Cypress 11.2.0** and contains **end-to-end (E2E) test scenarios** for the Trendyol e-commerce site.
 
-## Proje Yapısı
+## Project Structure
 
-- **cypress/e2e/trendyol/**: Trendyol için yazılmış test senaryolarının bulunduğu klasör.  
+- **cypress/e2e/trendyol/**: This folder contains test scenarios written for Trendyol.  
 
-## Kurulum
+## Installation
 
-Projeyi yerel bilgisayarınıza klonladıktan sonra aşağıdaki adımları izleyin:
+After cloning the project to your local computer, follow these steps:
 
-1. Node.js ve npm’in yüklü olduğundan emin olun.  
-2. Cypress 11.2.0 sürümünü kurun:
+1. Ensure that Node.js and npm are installed. 
+2. Install Cypress version 11.2.0:
    ```bash
    npm install cypress@11.2.0 --save-dev
+   ```
